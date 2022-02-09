@@ -1,0 +1,27 @@
+[base]
+name=CentOS-7-Base
+failovermethod=priority
+baseurl=http://192.168.88.220/centos/7.4.1708/base/$basearch/
+enabled=1
+gpgcheck=0
+
+[updates]
+name=CentOS-7-Updates
+failovermethod=priority
+baseurl=http://192.168.88.220/centos/7.4.1708/updates/$basearch/
+enabled=1
+gpgcheck=0
+
+[extras]
+name=CentOS-7-Extras
+failovermethod=priority
+baseurl=http://192.168.88.220/centos/7.4.1708/extras/$basearch/
+enabled=1
+gpgcheck=0
+
+[epel]
+name=EPEL 7 for rhel/centos 7
+baseurl=http://192.168.88.220/epel/7/$basearch
+failovermethod=priority
+enabled=1
+gpgcheck=0
