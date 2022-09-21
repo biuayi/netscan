@@ -60,3 +60,12 @@ baseurl=https://mirrors.aliyun.com/docker-ce/linux/centos/$releasever/source/nig
 enabled=0
 gpgcheck=1
 gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+
+
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+v
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpgv#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpgv#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpgvvv
