@@ -64,8 +64,8 @@ gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
 
 #gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
 #gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
-#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
 #gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
 #gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
-v
-#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpgv#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpgv#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpgvvv
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
+#gpgkey=https://mirrors.aliyun.com/docker-ce/linux/centos/gpg
